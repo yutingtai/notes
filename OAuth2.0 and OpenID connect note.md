@@ -31,7 +31,7 @@ Authorization code : users authenticate themselves on the authorization server, 
 Client Credentials : when client needs access to protected resource, client will authenticate with client ID to get access token.
 ### OAuth 2.0 authorization code flow
 
-![code flow](OAUth2.0_png/code_flow.png "code flow")
+![code flow](OAuth2.0_png/code_flow.png "code flow")
 
 
 ### Problem with OAuth 2.0 for authentication:
@@ -88,7 +88,7 @@ SzAiB9uToBkg1O46Uq33xgFTOaReJW8icOBA8mmM3K0  ========> HMACSHA256(
 
 ### OpenID connect authorization code flow
 
-![OIDC code flow](OAUth2.0_png/OIDC_code_flow.png "OIDC code flow")
+![OIDC code flow](OAuth2.0_png/OIDC_code_flow.png "OIDC code flow")
 
 
 
